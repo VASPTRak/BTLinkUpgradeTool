@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BT LINK Upgrade Tool</string>
+    <string name="PairNewLink">Pair New LINK</string>
+    <string name="ReloadMenu">Reload</string>
+    <string name="DeviceName">Device Name</string>
+    <string name="DeviceMacAddress">Device Mac Address</string>
+    <string name="no_internet">The system has detected that you do not have cellular service. Please contact your Manager.</string>
+    <string name="GO">GO</string>
+    <string name="VersionHeading">Version: </string>
+    <string name="mainHeading">BT Link Upgrade Tool</string>
+    <string name="selectedLinkMessage">You have selected linkName.</string>
+    <string name="linkSelectionConfirmation">Do you really want to proceed with the selected device to upgrade as a LINK?</string>
+
+    <!-- LINK Upgrade process -->
+    <string name="FileDownloadInProgress">Upgrade file download in progress.</string>
+    <string name="SoftwareUpdateInProgress">Software update in progress.</string>
+    <string name="ConnectingToTheLINK">Connecting to the LINK.</string>
+    <string name="LINKConnectionLost">LINK connection lost.</string>
+    <string name="TryAgainLater">Please try again later</string>
+    <string name="PleaseWaitSeveralSeconds">Please wait several seconds...</string>
+    <string name="UpgradeCompleted">Upgrade Completed.</string>
+
+</resources>
